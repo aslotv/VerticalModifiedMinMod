@@ -1,0 +1,2 @@
+# VerticalModifiedMinMod_forPublication
+ 
