@@ -1,5 +1,7 @@
 # VerticalModifiedMinMod
 
+[![DOI](https://zenodo.org/badge/658754903.svg)](https://zenodo.org/badge/latestdoi/658754903)
+
 ## Running the simulation model
 Below we explain how to run the 8 different scenarios presented in the manuscript «Effects of migrating 
 mesopelagic fish on carbon export and sequestration». A detailed explanation of the code is given in the 
