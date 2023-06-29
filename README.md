@@ -23,6 +23,7 @@ given in Table 1 and 2 of the manuscript are found in “Table”.
 
 ## Running other scenarios
 Which scenario to run is set in the following statement (line 119-120 in VertMinMod.m):
+
 [NoFish,NoDVM,DiffusivityFactor,FishMortalityFactor,Scenario] = SetScenario("Baseline");
  
 To run the 7 additional scenarios of the manuscript, replace "Baseline" in the above statement with one 
