@@ -20,7 +20,7 @@ manuscript as well as in the Supporting Information. If you load the .mat file i
 given in Table 1 and 2 of the manuscript are found in “Table”. 
 
 ## Running other scenarios
-Which scenario to run is set in the following statement (line 112-113 in VertMinMod.m):
+Which scenario to run is set in the following statement (line 119-120 in VertMinMod.m):
 [NoFish,NoDVM,DiffusivityFactor,FishMortalityFactor,Scenario] = ...
  SetScenario("Baseline");
  
