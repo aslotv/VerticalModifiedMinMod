@@ -2,10 +2,9 @@
 function [alfa,sigma,mu,Y,I,H,limFrac,limDepth,f,delta,k,nu,K,P,R,rho, ...
     E_0,kappa,S_b] = defineParameters(N_z,options)
 %DEFINEPARAMETERS is a function that defines the parameters in the tables
-%S5 and S6, in the Supporting Information (Aksnes et al., n.d.), results of
+%S5 and S6, in the Supporting Information (Aksnes et al., 2024), results of
 %expressions in the system of equations that remains constant in time, and
 %storage arrays for results that are not. 
-% FIXME: Fix n.d., when date is known.
 %
 %   Required Input: 
 %
